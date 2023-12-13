@@ -3,6 +3,9 @@
 
 This project is just an example of Social Application to send and receive friend request.
 
+## prerequisite for docker
+- docker and docker compose tool required
+
 ## User guide
 - social.postman_collection.json is postman collection with example
 - requirements.txt contain project dependencies
@@ -12,4 +15,3 @@ This project is just an example of Social Application to send and receive friend
 - Database (as of now we are using SqlLite3 database)
 
 NOTE: attaching sample database also
-
